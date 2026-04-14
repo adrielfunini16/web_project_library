@@ -1,55 +1,47 @@
-# 📚 Triple Peaks Library
+# Triple Peaks Library
 
-This project is a static website developed as part of the TripleTen Web Development program. It represents an online library platform with multiple sections, focusing on layout structure and user interface design.
+Triple Peaks Library is a single-page website developed as part of the TripleTen Web Development Bootcamp. The project focuses on building a clean and structured interface using semantic HTML and CSS, with emphasis on layout composition and visual organization.
 
-## 🌐 Live Demo
-[View Project](https://adrielfunini16.github.io/web_project_library/)
+[Project Link](https://adrielfunini16.github.io/web_project_library/)
 
-## 🧠 About the Project
+## Project Description
 
-The goal of this project was to practice building structured web pages using HTML and CSS, focusing on layout positioning and semantic structure.
+This project was created to practice the development of structured web pages with multiple sections, including navigation, content cards, event information, membership instructions, and footer links.
 
-The website includes sections such as:
-- Team Picks (book recommendations)
-- Upcoming Events
-- Membership Information
-- Contact section
+The main goal was to strengthen frontend fundamentals through the use of semantic HTML and CSS styling techniques, especially layout positioning and section organization.
 
-Navigation is handled through anchor links, allowing smooth scrolling between sections.
+## Technologies Used
 
-## 🛠️ Technologies Used
-
-- HTML5 (semantic structure)
+- HTML5
 - CSS3
-  - Flexbox
-  - Absolute positioning
-  - Hover effects
-  - Smooth scrolling (scroll-behavior)
+- Flexbox
+- Absolute positioning
+- Hover effects
+- Smooth scrolling
 
-## ✨ Features
+## Features
 
-- Clean and structured layout
-- Smooth navigation between sections
-- Interactive hover effects on cards and links
-- Multi-section single-page design
+- Multi-section single-page layout
+- Navigation with anchor links
+- Smooth scrolling between sections
+- Hover effects on links and cards
+- Organized content structure with semantic HTML
 
-## 📚 What I Learned
+## Learning Outcomes
 
-- Structuring pages with semantic HTML
-- Using CSS positioning (especially absolute positioning)
-- Improving user experience with transitions and scroll behavior
-- Organizing content into reusable sections
+Through this project, I practiced:
 
-## ⚠️ Notes
+- building page structure with semantic HTML
+- styling interfaces with CSS
+- working with positioning techniques
+- improving navigation and user experience with hover effects and smooth scrolling
+
+## Notes
 
 This project was focused on layout and structure, so it does not include responsiveness or JavaScript functionality.
 
-## 📌 Future Improvements
+## Future Improvements
 
 - Add responsive design
-- Fix image paths for better deployment compatibility
-- Improve interactivity with JavaScript
-
----
-
-👨‍💻 Developed by Adriel Funini
+- Improve deployment asset paths
+- Expand interactivity with JavaScript
